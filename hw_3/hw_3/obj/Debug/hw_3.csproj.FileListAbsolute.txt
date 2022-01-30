@@ -1,7 +1,0 @@
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\bin\Debug\hw_3.exe.config
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\bin\Debug\hw_3.exe
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\bin\Debug\hw_3.pdb
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\obj\Debug\hw_3.csprojAssemblyReference.cache
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\obj\Debug\hw_3.csproj.CoreCompileInputs.cache
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\obj\Debug\hw_3.exe
-C:\Users\Fraer_myxa\Desktop\hw_3\hw_3\obj\Debug\hw_3.pdb
