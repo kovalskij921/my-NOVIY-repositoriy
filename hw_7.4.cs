@@ -10,13 +10,13 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            decimal x, y;
+            double x, y;
             Console.Write("enter x \t");
             x = int.Parse(Console.ReadLine());
             Console.Write("enter y \t");
             y = int.Parse(Console.ReadLine());
-            decimal d;
-            d = y / 3;
+            double d;
+            d = y / 0.305;
             if (x > d)
             {
                 Console.WriteLine("x more then y");
